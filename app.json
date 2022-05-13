@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "Feedget_mobile",
+    "slug": "feedget_mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Widget created to send feedback on problems, ideas, or other topics.\nYou put the message in it and take a screenshot of the cell phone screen showing the subject in question.",
+    "githubUrl": "https://github.com/lucas-rabelo/Feedget_mobile"
   }
 }
